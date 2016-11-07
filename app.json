@@ -22,13 +22,19 @@
     "selectedColor":"#EA5144",
     "list": [{
       "pagePath": "pages/coupon/list/list",
-      "text": "首页"
+      "text": "首页",
+      "iconPath":"images/icon/icon_home.png",
+      "selectedIconPath":"images/icon/icon_home1.png"
     }, {
       "pagePath": "pages/acount/roomcoupon/roomcoupon",
-      "text": "订单"
+      "text": "订单",
+      "iconPath":"images/icon/icon_order.png",
+      "selectedIconPath":"images/icon/icon_order1.png"
     }, {
       "pagePath": "pages/portal/aboutus/aboutus",
-      "text": "关于"
+      "text": "关于",
+      "iconPath":"images/icon/icon_about.png",
+      "selectedIconPath":"images/icon/icon_about1.png"
     }]
   }
 }
