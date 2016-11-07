@@ -1,0 +1,6 @@
+.top-banner{
+    width: 100%;
+}
+.top-banner image{
+    width: 100%;
+}

@@ -1,0 +1,17 @@
+{
+  "pages":[
+    "pages/coupon/list/list",
+    "pages/coupon/detail/detail",
+    "pages/acount/roomcoupon/roomcoupon",
+    "pages/order/pay/pay",
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "backgroundColor": "#ffffff",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "高端酒店特价",
+    "navigationBarTextStyle":"black"
+  }
+}

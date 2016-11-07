@@ -1,0 +1,3 @@
+<view class="top-banner">
+<image src="http://whphoto.b0.upaiyun.com/116CKoQ1_640x360" mode="{{imgMode}}"></image>
+</view>

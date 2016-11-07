@@ -1,0 +1,14 @@
+<view class="top-banner">
+<image src="http://whphoto.b0.upaiyun.com/116CKoQ1_640x360" mode="{{imgMode}}"></image>
+</view>
+<view class="list">
+    <view wx:for="{{couponList}}" wx:for-item="couponitem" bindtap="openDetail" class="item">
+        <view class="h-img">
+            <image src="{{couponitem.PicUrl}}" mode="{{imgMode}}"></image>
+        </view>
+        <view class="h-info">
+            <view class="h-n">{{couponitem.HotelName}}</view>
+            <view class="h-brief">{{couponitem.PackageBrief}}</view>
+        </view>
+    </view>
+</view>

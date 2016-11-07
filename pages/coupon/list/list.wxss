@@ -1,0 +1,46 @@
+.top-banner{
+    width: 100%;
+}
+.top-banner image{
+    width: 100%;
+}
+
+    .list {
+        width: 88%;
+        max-width: 600px;
+        height: auto;
+        margin: 0 auto 0 auto;
+    }
+
+        .list .item {
+            width: 100%;
+            height: auto;
+            margin: 0 0 0 0;
+            padding: 0 0 0 0;
+            background: #fff;
+            text-align: left;
+            border-bottom:1px solid #e0e0e0;
+        }
+
+            .list .item .h-img {
+                width: 100%;
+            }
+
+                .list .item .h-img iamge {
+                    width: 100%;
+                }
+            .list .item .h-info {
+                width: 100%;
+            }
+                .list .item .h-info .h-n{
+                    width: 100%;
+                    margin: 0 0 0.3em 0;
+                    font-size: 1em;
+                    color: #555;
+                }
+                .list .item .h-info .h-brief{
+                    width: 100%;
+                    margin: 0 0 1em 0;
+                    font-size: 0.8em;
+                    color: #919191;
+                }
