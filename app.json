@@ -16,6 +16,10 @@
     "navigationBarTextStyle":"black"
   },
   "tabBar": {
+    "borderStyle":"white",
+    "backgroundColor":"#ffffff",
+    "color":"#555",
+    "selectedColor":"#EA5144",
     "list": [{
       "pagePath": "pages/coupon/list/list",
       "text": "首页"
